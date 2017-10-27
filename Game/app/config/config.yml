@@ -1,0 +1,23 @@
+server:
+  id: 2
+  key: 'Rushu'
+
+network:
+  game:
+    port: 8788
+    ip: '127.0.0.1'
+  exchange:
+    port: 8787
+    ip: '127.0.0.1'
+
+database:
+  login:
+    host: 'localhost'
+    user: 'root'
+    password: ''
+    name: 'hlogin'
+  game:
+    host: 'localhost'
+    user: 'root'
+    password: ''
+    name: 'hgame'
